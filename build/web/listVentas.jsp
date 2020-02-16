@@ -1,6 +1,6 @@
 <%-- 
     Document   : listVentas
-    Created on : 2/11/2019, 09:56:10 PM
+    Created on : 21/11/2019, 09:56:10 PM
     Author     : fcadavid, cdiaz
 --%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

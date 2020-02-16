@@ -1,6 +1,6 @@
 <%-- 
     Document   : newCliente
-    Created on : 2/11/2019, 10:7:59 PM
+    Created on : 21/11/2019, 10:7:59 PM
     Author     : fcadavid, cdiaz
 --%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

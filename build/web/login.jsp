@@ -1,6 +1,6 @@
 <%-- 
     Document   : login
-    Created on : 2/11/2019, 09:44:00 PM
+    Created on : 21/11/2019, 09:44:00 PM
     Author     : fcadavid, cdiaz
 --%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
